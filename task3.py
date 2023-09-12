@@ -10,3 +10,4 @@ lowercase_count = sum(lowercase)
 
 print("Uppercase letters count: ", uppercase_count)
 print("Lowercase letters count: ", lowercase_count)
+
